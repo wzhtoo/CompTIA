@@ -75,3 +75,42 @@ An international telephone connection from any telephone to any other telephone 
 The numbering is hierarchical and has an intenationally standardized country code at the highest level. This makes national numbering schemes independent from each other. Image below specifies the structure of international telephone numbers.
 
 ![](img/01_img.png)
+
+The local-access network provides the connection between the customer’s telephone and the local exchange. Ordinary telephone and ISDN subscribers use two wires, a pair, as a subscriber loop, but for business customers, a higher capacity optical fiber or microwave radio link may be required.
+
+Most subscriber connections use twisted pairs of copper wires. Subscriber cables contain many pairs that are shielded with common aluminum foil and plastic shields. In urban areas cables are dug into the ground and may be very large, having hundreds of pairs. Distribution points that are installed in outdoor or indoor cabinets are needed to divide large cables into smaller ones and distribute subscriber pairs to houses. In suburban or country areas, overhead cables are often a more economical solution than underground cables.
+
+![](img/05.png)
+
+International Network
+Each country has at least one international switching center to which trunk exchanges are connected, as shown in image below. Via this highest switching hierarchy level, international calls are connected from one country to another and any subscriber is able to access any of the other more than 2 billion subscribers around the world. High-capacity optical systems interconnect international exchanges or switching centers of national networks. Submarine cables (coaxial cable or optical cable systems), microwave radio systems, and satellites connect continental networks to make up the worldwide telecommunications network.
+
+![](img/03_img.png)
+
+## Telecommunication Network
+
+We can divide telecommunications networks into categories in of many different ways. If we consider the customers of networks and the availability of services, there are two broad categories: public networks and private or dedicated networks.
+
+## Public Networks
+
+Public networks are owned and managed by telecommunications network operators. These network operators have a license to provide telecommunications services and that is usually their core business. Any customer can be connected to the public telecommunications network if he has the correct equipment and an agreement with the network operator.
+
+**The public networks are:**
+
+- Telephone Network
+- Mobile Telephone Network
+- Telex Network
+- Paging Network
+- Public Data Network
+- Internet
+- ISDN (Integrated Services Digital Network)
+- Radio and Television Network
+
+## Private or Dedicated Networks.
+
+Private networks are built and designed to serve the needs of particular organizations. They usually own and maintain the networks themselves. Services provided are a tailored mix of voice, data, and, for example, special control information.
+
+**The private networks are:**
+
+- Voice Communication Network
+- Data Communication Network
