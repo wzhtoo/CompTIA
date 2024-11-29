@@ -1,0 +1,71 @@
+# 07_Quiz
+
+[Quiz &#128279;](https://alison.com/topic/learn/84282/review-quiz)
+
+1. In order to improve router security, which of these actions would you take?
+
+- Change the service set identifier
+- **Disable the DHCP and statically assign an IP address**
+- Implement MAC filtering
+- Disable the SSID
+
+2. On the network card, if the activity light blinks, what is occurring?
+
+- **The card is sending or receiving information**
+- The card has a network problem
+- The card is connected to a network
+- The card is off
+
+3. Servers provide a number of services to a network. The server used to deliver Internet sites is the **\*\***\_**\*\***.
+
+- Proxy server
+- Print server
+- **Web server**
+- Fileserver
+
+4. Which standard is used to identify wireless networking?
+
+- 802.1
+- 802.8
+- 802.3
+- **802.11**
+
+5. Network cards have a unique address burned into the ROM chip which is the**\*\***\_**\*\*** address of the network card.
+
+- Sending address
+- Location address
+- **Hardware address**
+- Receiving address
+
+6. True or False: Up to six devices can have the same IP address.
+
+- True
+- **False**
+
+7. Which device is used to connect network devices so they can communicate with one another?
+
+- Client topology
+- Server topology
+- **Bus topology**
+- Terminator topology
+
+8. Unshielded twisted-pair comes in grades or categories which define their purpose and speed. Which category of unshielded twisted-pair has a minimum speed of 10 Gbps?
+
+- Category 1
+- **Category 6**
+- Category 5
+- Category 7
+
+9. Which type of fiber optic cabling connector is rectangular and similar to an RJ-45 connector?
+
+- **Subscriber**
+- Local connector
+- Mechanical transfer
+- Straight tip
+
+10. Which of the following servers is responsible for providing IP addresses to clients on the network?
+
+- **DHCP server**
+- Proxy server
+- Fileserver
+- DNS server
